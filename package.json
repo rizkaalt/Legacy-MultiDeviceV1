@@ -23,16 +23,16 @@
         "wabot-aq"
     ],
     
-    "homepage": "https://github.com/ZykoBotz-MD",
+    "homepage": "https://github.com/KhrlMstfa/Legacy-MultiDeviceV1",
     "author": {
         "name": "RullTaser"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/ZykoBotz-MD"
+        "url": "git+https://github.com/KhrlMstfa/Legacy-MultiDeviceV1"
     },
     "bugs": {
-        "url": "https://github.com/ZykoBotz-MD"
+        "url": "https://github.com/KhrlMstfa/Legacy-MultiDeviceV1"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
